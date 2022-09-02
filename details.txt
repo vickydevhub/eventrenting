@@ -1,0 +1,25 @@
+====Models================
+php artisan make:model Event --migration
+
+
+
+======Controllers=================
+php artisan make:controller EventsController --model=Event --requests
+
+
+
+Node Js===========================
+https://www.npmjs.com/package/@sipec/vue3-tags-input
+
+Laravel Packages==================
+https://image.intervention.io/v2/introduction/installation#integration-in-laravel
+https://github.com/jenssegers/laravel-mongodb
+
+
+Mongo-database-=============
+username-eventrenting_root
+password-DCGmKhZslMY7f5So
+
+mongosh "mongodb+srv://cluster0.9sihu7y.mongodb.net/myFirstDatabase" --apiVersion 1 --username eventrenting_root
+
+mongodb+srv://eventrenting_root:DCGmKhZslMY7f5So@cluster0.9sihu7y.mongodb.net/?retryWrites=true&w=majority
